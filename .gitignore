@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+
+
+venv/
+__pycache__/
+*.pyc
+uploads/
+flask_session
